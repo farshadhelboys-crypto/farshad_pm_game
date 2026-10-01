@@ -1,5 +1,5 @@
 window:
-  title: "Counter-Strike 2"
+  title: "CMLauncher v34 ClientMod"
   roi:
     enabled: true
     width: 960
@@ -44,7 +44,7 @@ control:
 
 interface:
   enabled: true
-  windowName: "Aimbot Detection"
+  windowName: "Farshad_pm aim bot | سلطان چیت کلاینت مود"
   maxFps: 75
   showAimOrigin: false
 
